@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<style>
+	body {
+		background-color: #F0DC82;
+	}
+
+	h1 {
+		color: #7C0A02;
+		font-family: monospace;
+		font-size: 34px;
+	}
+
+	h2 {
+		color: #8B0000;
+		font-family: monospace;
+		font-size: 22px;
+	}
+
+	h3 {
+		color: #8B0000;
+		font-family: monospace;
+		font-size: 18px;
+	}
+	
+	p {
+		color: gray;
+		font-family: monospace;
+		font-size: 18px;
+	}
+
+</style>
+<body>
+<h1>New Study</h1>
+<h2>Research Centre, Yorkshire</h2>
+<h3>Study No. 123456-789</h3>
+<HR WIDTH="100%" SIZE="4" NOSHADE>
+
+<div>
+<form>
+<p>Enter subject ID:<input type="text"> (up to 3 digits)<br>
+Visit: <input type="radio" name="visit" value="Screening">Screening
+</p>
+</form>
+</div>
+
+</body>
+</html>
